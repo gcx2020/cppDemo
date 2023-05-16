@@ -26,3 +26,4 @@ target_link_libraries(
 
 include(GoogleTest)
 gtest_discover_tests(hello_test)
+add_test(NAME hello_test_1 COMMAND hello_test)
