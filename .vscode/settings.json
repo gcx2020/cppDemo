@@ -6,5 +6,6 @@
     "memory": "c",
     "numeric": "c",
     "cpptestc.hpp": "c"
-  }
+  },
+  "cmake.sourceDirectory": "/home/congxinguan/codeData/github/cppDemo/c++/cmake_gtest_gmoke/demo02/googletest"
 }
