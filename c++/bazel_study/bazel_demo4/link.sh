@@ -1,0 +1,1 @@
+g++ main.o myFunction.o -o main
